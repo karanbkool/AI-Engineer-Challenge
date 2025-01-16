@@ -31,7 +31,7 @@ This code sets up a local ollama server and listens on port 11435\. Ollama run n
 **5.0 Testing Results**  
 I created a Testing.ipynb jupyter notebook to test out the functionality of Flask API (5.1), Weaviate(5.2) and Ollama(5.3).
 
-	**5.1 Flask API Test**  
+**5.1 Flask API Test**  
 
 * Uses `subprocess` to start the Flask server.  
 * Sends a POST request with a JSON payload containing a hex color.  
